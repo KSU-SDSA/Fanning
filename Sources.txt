@@ -1,9 +1,0 @@
-https://github.com/shizuo-kaji/CubicalRipser_3dim/blob/master/demo/cubicalripser.ipynb
-
-https://github.com/GUDHI/TDA-tutorial/blob/master/Tuto-GUDHI-representations.ipynb
-
-INTEL SCENE CLASSIFICATION CHALLENGE
-https://www.kaggle.com/datasets/puneet6060/intel-image-classification
-https://github.com/luangtatipsy/intel-image-classification/tree/master
-
-Let's repurpose this scene classification challenge for predicting persistent homology!
